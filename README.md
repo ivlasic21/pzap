@@ -9,7 +9,7 @@ Kako koristiti
 ## Preuzimanje podataka
 
 - [Preuzmi CSV datoteku](zamjena_projekta/datoteka.csv)
-- [Preuzmi JSON datoteku](zamjena_projekta)
+- [Preuzmi JSON datoteku](zamjena_projekta/datoteka.json)
 
 
 Autor
