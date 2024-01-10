@@ -8,8 +8,8 @@ Kako koristiti
 
 ## Preuzimanje podataka
 
-- [Preuzmi CSV datoteku](putanja/do/csv/datoteke/datoteka.csv)
-- [Preuzmi JSON datoteku](putanja/do/json/datoteke/datoteka.json)
+- [Preuzmi CSV datoteku](zamjena_projekta)
+- [Preuzmi JSON datoteku](zamjena_projekta)
 
 
 Autor
